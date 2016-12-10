@@ -1,4 +1,4 @@
-
+<html>
 <head>
 <title> jagad alam semesta</title>
 </head>
@@ -9,8 +9,6 @@ PEMILIK ALAM </font></H1></b><hr size="2">
 <img src ="a.jpg"
 </table>
 <br>
-<a href="katzuar@yahoo.com"> klik disini & </a>
-<a href="hairul-atzuar.blogspot.com"> kunjungi alamat blog saya </a>
 <br>
 <br><font color="white">Kita,hidup di dunia hanya sementara.
 Bagaikan hanya sekejap mata
